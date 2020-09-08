@@ -5,10 +5,10 @@
 ## QwikLabs Completed
 
 <details>
-  <!-- The complete lab title goes here 👇🏾-->
-  <summary>Lab 1: Title goes here</summary>
+  <!-- Google Cloud Fundamentals  👇🏾-->
+  <summary>Lab 1: Getting Started with BigQuery</summary>
   <!-- Provide path to the screenshot here. Example 👇🏾-->
-  <img src="screenshots/example_screenshot.png">
+  <img src="Google Cloud Fundamentals-Getting Started with BigQuery.png">
 </details>
 
 <details>
