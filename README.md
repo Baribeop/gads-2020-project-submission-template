@@ -8,7 +8,7 @@
   <!-- Google Cloud Fundamentals  👇🏾-->
   <summary>Lab 1: Getting Started with BigQuery</summary>
   <!-- Provide path to the screenshot here. Example 👇🏾-->
-  <img src="Google Cloud Fundamentals-Getting Started with BigQuery.png">
+  <img src="screenshots/example_screenshot.png">
 </details>
 
 <details>
